@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/03-spring-boot-web-application-h2" />
+    <file type="web" url="file://$PROJECT_DIR$/04-spring-boot-web-application-mysql" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/09-spring-boot-worker-rest-api/pom.xml" />
+        <option value="$PROJECT_DIR$/02-spring-boot-todo-rest-api-h2/pom.xml" />
+        <option value="$PROJECT_DIR$/03-spring-boot-web-application-h2/pom.xml" />
+        <option value="$PROJECT_DIR$/06-todo-rest-api-h2-containerized/pom.xml" />
+        <option value="$PROJECT_DIR$/05-spring-boot-react-full-stack-h2/restful-web-services/pom.xml" />
+        <option value="$PROJECT_DIR$/01-spring-boot-hello-world-rest-api/pom.xml" />
+        <option value="$PROJECT_DIR$/08-spring-boot-todo-rest-api-eb-cli/pom.xml" />
+        <option value="$PROJECT_DIR$/04-spring-boot-web-application-mysql/pom.xml" />
+        <option value="$PROJECT_DIR$/07-todo-rest-api-mysql-containerized/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_19" default="true" project-jdk-name="openjdk-19" project-jdk-type="JavaSDK" />
+  <component name="ProjectType">
+    <option name="id" value="jpab" />
+  </component>
+</project>
